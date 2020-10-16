@@ -127,7 +127,7 @@ export default function Index() {
                 <input type="text" name="name" placeholder="Nome" /> 
               </p>
               <p>
-                <input type="email" name="email" placeholder="Email" />
+                <input type="email" name="email" placeholder="E-mail" />
               </p>
               <p>
                 <textarea name="message" cols={30} rows={8} placeholder="Mensagem..."></textarea>
