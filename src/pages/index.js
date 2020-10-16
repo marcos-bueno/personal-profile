@@ -124,7 +124,7 @@ export default function Index() {
           <div className="formBx">
             <form name="contact" data-netlify="true">
               <input type="text" name="name" placeholder="Nome"/>
-              <input type="email" name="email" placeholder="E-mail"/>
+              <input type="text" name="email" placeholder="E-mail"/>
               <textarea name="message" cols={30} rows={8} placeholder="Mensagem..."></textarea>
               <input type="submit" value="Enviar"/>
             </form>
