@@ -122,7 +122,7 @@ export default function Index() {
             </div>
           </div>
           <div className="formBx">
-            <form name="form" data-netlify="true">
+            <form name="contact" data-netlify="true">
               <p>
                 <input type="text" name="name" placeholder="Nome" /> 
               </p>
