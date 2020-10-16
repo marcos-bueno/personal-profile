@@ -474,7 +474,7 @@ a.btn::before {
   min-width: 60%;
 }
 
-.formBx form {
+.formBx form p {
   display: flex;
   flex-direction: column;
 }

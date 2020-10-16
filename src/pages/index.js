@@ -133,7 +133,7 @@ export default function Index() {
                 <textarea cols={30} rows={8} name="message" placeholder="Mensagem..."></textarea>
               </p>
               <p>
-                <button type="submit">Enviar</button>
+                <input type="submit" value="Enviar"/>
               </p>
             </form>
           </div>
