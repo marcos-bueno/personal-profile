@@ -512,7 +512,7 @@ a.btn::before {
   color: #999;
 }
 
-.formBx form p button[type="submit"] {
+.formBx form p input[type="submit"] {
   max-width: 100px;
   background: #2196f3;
   cursor: pointer;
@@ -520,7 +520,7 @@ a.btn::before {
   letter-spacing: 2px;
 }
 
-.formBx form p button[type="submit"]:hover {
+.formBx form p input[type="submit"]:hover {
   background: #0f75c9;
 }
 
