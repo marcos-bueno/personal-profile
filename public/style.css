@@ -487,8 +487,8 @@ a.btn::before {
   margin-bottom: 10px;
 }
 
-.formBx form input,
-.formBx form textarea {
+.formBx form p input,
+.formBx form p textarea {
   margin-bottom: 20px;
   padding: 15px;
   font-size: 16px;
@@ -499,20 +499,20 @@ a.btn::before {
   resize: none;
 }
 
-.formBx form input[type="submit"] {
+.formBx form p input[type="submit"] {
   margin-bottom: 0;
 }
 
-.formBx form textarea {
+.formBx form p textarea {
   min-width: 200px;
 }
 
-.formBx form input::placeholder,
-.formBx form textarea::placeholder {
+.formBx form p input::placeholder,
+.formBx form p textarea::placeholder {
   color: #999;
 }
 
-.formBx form input[type="submit"] {
+.formBx form p input[type="submit"] {
   max-width: 100px;
   background: #2196f3;
   cursor: pointer;
@@ -520,7 +520,7 @@ a.btn::before {
   letter-spacing: 2px;
 }
 
-.formBx form input[type="submit"]:hover {
+.formBx form p input[type="submit"]:hover {
   background: #0f75c9;
 }
 
