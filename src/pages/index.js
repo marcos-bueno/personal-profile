@@ -110,7 +110,7 @@ export default function Index() {
         </div>
       </section>
       <section className="contact" id="contact">
-        <div className="heading white">
+        <div className="heading">
           <h2>Contato</h2>
           <p>Vamos trabalhar juntos?</p>
         </div>

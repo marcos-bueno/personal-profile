@@ -467,7 +467,7 @@ a.btn::before {
 /* Contact */
 
 .contact {
-  background: #111;
+  background: #fff;
 }
 
 .formBx {
@@ -481,7 +481,7 @@ a.btn::before {
 
 .formBx form h3,
 .contactInfo h3 {
-  color: #fff;
+  color: #111;
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 10px;
@@ -494,7 +494,7 @@ a.btn::before {
   font-size: 16px;
   border: none;
   outline: none;
-  background: #222;
+  background: rgb(211, 207, 207);
   color: #fff;
   resize: none;
 }
@@ -563,9 +563,13 @@ a.btn::before {
   margin-bottom: 0;
 }
 
+.contactInfoBx .box p {
+  color: #111;
+}
+
 .contactInfoBx .box a {
   font-family: 'Poppins', sans-serif;
-  color: #fff;
+  color: #111;
   text-decoration: none;
 }
 
