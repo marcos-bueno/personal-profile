@@ -494,7 +494,7 @@ a.btn::before {
   font-size: 16px;
   border: none;
   outline: none;
-  background: rgb(211, 207, 207);
+  background: rgb(190, 187, 187);
   color: #fff;
   resize: none;
 }
