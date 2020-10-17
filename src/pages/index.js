@@ -74,6 +74,41 @@ export default function Index() {
           </div>
         </div>
       </section>
+      <section className="services" id="services">
+        <div className="heading white">
+          <h2>Serviços</h2>
+          <p>O que eu faço</p>
+        </div>
+        <div className="content">
+          <div className="servicesBx">
+            <i className="fa fa-laptop"></i>
+            <h2>Programação</h2>
+            <p>Desenvolvimento de sites responsivos (adaptáveis a qualquer
+            dispositivo e/ou tamanho de tela).<br />
+              Utilizando as mais atuais e recomendadas técnicas de desenvolvimento, 
+              com aparência bonita, suave e personalizada. O trabalho é feito
+              totalmente voltado às necessidades do projeto.</p>
+          </div>
+          <div className="servicesBx">
+            <i className="fa fa-line-chart"></i>
+            <h2>SEO</h2>
+            <p>Aplicação de configurações e técnicas que ajudam a posicionar melhor
+            nos resultados de buscas de sites como Google, Yahoo, Bing. Gerando
+              assim um maior número de acessos, um maior alcance a um público que
+              busca pelo assunto em questão e consequentemente maior fidelização
+                e clientes.</p>
+          </div>
+          <div className="servicesBx">
+            <i className="fa fa-bullhorn"></i>
+            <h2>Marketing Digital</h2>
+            <p>Gerenciar as redes sociais é muito mais que simplesmente fazer
+            publicações. Uma gestão de mídias sociais envolve diversas etapas, que
+              incluem desde a definição da estratégia e do posicionamento, o
+              planejamento de publicações e a execução até o monitoramento e o
+                levantamento dos resultados.</p>
+          </div>
+        </div>
+      </section>
       <section className="contact" id="contact">
         <div className="heading white">
           <h2>Contato</h2>
